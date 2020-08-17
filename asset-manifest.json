@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/to-do-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/to-do-app/static/js/main.9ad6d971.chunk.js",
+    "main.js.map": "/to-do-app/static/js/main.9ad6d971.chunk.js.map",
+    "runtime-main.js": "/to-do-app/static/js/runtime-main.1f8cf036.js",
+    "runtime-main.js.map": "/to-do-app/static/js/runtime-main.1f8cf036.js.map",
+    "static/js/2.30da3cce.chunk.js": "/to-do-app/static/js/2.30da3cce.chunk.js",
+    "static/js/2.30da3cce.chunk.js.map": "/to-do-app/static/js/2.30da3cce.chunk.js.map",
+    "index.html": "/to-do-app/index.html",
+    "precache-manifest.b83af5bbb73db172173a89f49f2f7e11.js": "/to-do-app/precache-manifest.b83af5bbb73db172173a89f49f2f7e11.js",
+    "service-worker.js": "/to-do-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/to-do-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.30da3cce.chunk.js.LICENSE.txt": "/to-do-app/static/js/2.30da3cce.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/to-do-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f8cf036.js",
+    "static/js/2.30da3cce.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9ad6d971.chunk.js"
+  ]
+}
